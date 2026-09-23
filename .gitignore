@@ -1,0 +1,19 @@
+# R specific files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Dependency management
+renv/library/
+renv/local/
+renv/staging/
+
+# Data and large binary files
+*.csv
+*.tsv
+*.rds
+*.RData
+*.bam
+*.fastq
+*.gz
